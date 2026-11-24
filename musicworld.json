@@ -1,0 +1,9 @@
+{
+  "volume": 0.40,
+  "fadeSeconds": 2.0,
+  "exploreGapMin": 25,
+  "exploreGapMax": 75,
+  "afterCombatQuiet": 12,
+  "combatHold": 3,
+  "debugLog": false
+}

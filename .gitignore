@@ -1,0 +1,7 @@
+.work/
+build/
+*.user
+*.pdb
+Music/**/*.mp3
+Music/**/*.ogg
+Music/**/*.wav
